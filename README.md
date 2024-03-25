@@ -22,13 +22,7 @@ chmod +x set-hypr
 
 ---
 
----
 
----
-
----
-
----
 
 
 > Special thanks to [SolDoesTech](https://github.com/SolDoesTech) for writing this script.
